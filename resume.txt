@@ -1,0 +1,36 @@
+BRYCE SOTO
+(858) 229-2391 | BryceSoto2982@gmail.com | San Diego, CA
+LinkedIn: linkedin.com/in/brycesoto
+GitHub: github.com/B-soto
+
+
+
+TECHNICAL SKILLS
+
+Proficient: Python, Bash, Terraform, AWS, Chef, Docker, Kubernetes, CI/CD, SQL, DevOps, Platform/Backend
+
+WORK EXPERIENCE
+
+Accenture @ Meta |  Senior Software Engineer  |  Remote	06/2023 - Current
+Architected multi-stage CI/CD pipeline with automated promotion workflows, validation testing via Slurm job execution on RC clusters, and phased production rollouts across 10+ clusters hosting 100,000+ GPUs, reducing deployment failures by 85% and enabling zero-downtime AMI updates.
+Developed K8s-native monitoring jobs using Helm charts to deploy cronjobs that collect HPC storage metrics (availability, latency) across distributed NFS/Lustre filesystems, reducing incident detection time from ~45 minutes to under 2 minutes and saving 320+ engineering hours annually through proactive alerting.
+Led Terraform infrastructure modernization for team of 4 engineers, decomposing monolithic codebase into modular, reusable components across multiple state files, reducing security risks and enabling security best practice of least privilege permissions to users and machines.
+Implemented automated disaster recovery system for FSx file systems using Python-based AWS Backup integration with custom retention policies, achieving 99.9% recovery SLA while reducing storage costs by 40% through intelligent snapshot lifecycle management.
+Built containerized node remediation framework using Docker-deployed Slurm health checks and custom prologs to validate GPU performance and auto-drain failed nodes, eliminating 40+ hours weekly researcher downtime while maintaining 98%+ healthy GPU fleet utilization for cost optimization.
+
+Alation | Software Engineer (Fullstack)  | Redwood City, CA (Hybrid)	10/2022 - 02/2023
+Integrated Data Quality alerting into SQL query tool by writing APIs to access Data Objects (schemas, tables, columns) that contained WARNING or ALERT values resulting in 100% customer visibility to corrupt data.
+Enhanced Data Quality ingestion API to maintain last 10 (configurable value) ingestion runs to temporary folder, allowing users to access historical data and saving customers hours & over 30% time in debugging efforts.
+
+Apple (c) | Software Developer |  Cupertino, CA	 08/2019 - 05/2022
+Implemented ETL pipelines for large amounts of data assets (20 GB-150 GB) allowing AIML ops Process Engineers to save 75% setup time in annotation jobs.
+Created self-service command line Python programs that automate Input / Output workflows saving Project Managers 5 - 6 hours weekly on manual tasks and organization efforts.
+Saved 90% in deployment time & hours in debugging efforts by leveraging Docker repos to deploy CLI tools.
+Built tools that provided complex HTML / CSV reporting for AIML projects enabling Business Analysts 100% visibility into annotators productivity and QA team members 100% visibility into aggregate and weighted scoring.
+Achieved 100% unit test coverage for Internal AIML tools used for QA Grading & productivity reporting.
+
+Side Inc. | Implementation Engineer (Team Lead) |  San Francisco, CA	 05/2018 - 08/2019
+Lead building of website QA tool for a team of 4 engineers in Python resulting in reducing manual check and test time by 70%.
+Architected and engineered  first iteration of Side's client on-boarding tool that saved
+90% creation time for systems setup (Website creation, Gmail accounts, Asana & Zendesk access).
+EDUCATIONComputer Engineering (BS),  San Francisco State University	Spring 2018	
